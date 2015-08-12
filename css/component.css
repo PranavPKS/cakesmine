@@ -12,7 +12,7 @@
 	color: #333;
 }
 
-.grid1 a:nth-child(odd) {
+.grid1 a:nth-child(even) {
 	margin: 30px 0 -30px 0;
 }
 
